@@ -41,3 +41,5 @@ Pages e56
 ISSN 1934-8584,
 https://doi.org/10.1002/cpns.56
 (https://currentprotocols.onlinelibrary.wiley.com/doi/full/10.1002/cpns.56)
+
+https://github.com/giovannibarbera/miniscope_v1.0
