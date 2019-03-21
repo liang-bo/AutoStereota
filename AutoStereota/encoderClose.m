@@ -1,0 +1,3 @@
+function encoderClose(encoderHandle)
+
+end
