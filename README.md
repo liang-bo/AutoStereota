@@ -16,11 +16,13 @@ aspiration prior to GRIN lens implantation. It will be useful for neuroscientist
 in vivo deep brain imaging using miniature microscope or two-photon microscope
 combined with microendoscopes.
 
-# Automated surgical instrument for brain tissue aspiration
-# Simply modified from commercial stereotaxic instrument
-# Open-source user friendly GUI software in MATLAB
-# Gradient index lens or micro-prism implantation for in vivo calcium imaging
-# Minimize human error, reduce training time, and increase surgical precision
+- Automated surgical instrument for brain tissue aspiration
+- Simply modified from commercial stereotaxic instrument
+- Open-source user friendly GUI software in MATLAB
+- Gradient index lens or micro-prism implantation for in vivo calcium imaging
+- Minimize human error, reduce training time, and increase surgical precision
+
+# References
 
 Bo Liang, Lifeng Zhang, Casey Moffitt, Yun Li, Da-Ting Lin,
 An open-source automated surgical instrument for microendoscope implantation,
@@ -67,7 +69,7 @@ https://doi.org/10.1002/cpns.56
 https://github.com/giovannibarbera/miniscope_v1.0
 
 
-# License notice
+# License
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
