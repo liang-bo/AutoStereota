@@ -1,5 +1,27 @@
 # AutoStereota
 
+Gradient index (GRIN) lenses can be used to image deep brain regions
+otherwise inaccessible via standard optical imaging methods. Brain tissue aspiration
+before GRIN lens implantation is a widely adopted approach. However, typical brain
+tissue aspiration methods still rely on a handheld vacuum needle, which is subjective to
+human error and low reproducibility. Therefore, a high-precision automated surgical
+instrument for brain tissue aspiration is desirable.
+We developed a robotic surgical instrument that utilizes robotic control of
+a needle connected to a vacuum pump to aspirate brain tissue. The system was based
+on a commercial stereotaxic instrument, and the additional parts can be purchased offthe-
+shelf or Computer Numerical Control (CNC) machined. A MATLAB-based userfriendly
+graphical user interface (GUI) was developed to control the instrument.
+Our robotic surgical instrument is an ideal solution for brain tissue
+aspiration prior to GRIN lens implantation. It will be useful for neuroscientists performing
+in vivo deep brain imaging using miniature microscope or two-photon microscope
+combined with microendoscopes.
+
+# Automated surgical instrument for brain tissue aspiration
+# Simply modified from commercial stereotaxic instrument
+# Open-source user friendly GUI software in MATLAB
+# Gradient index lens or micro-prism implantation for in vivo calcium imaging
+# Minimize human error, reduce training time, and increase surgical precision
+
 Bo Liang, Lifeng Zhang, Casey Moffitt, Yun Li, Da-Ting Lin,
 An open-source automated surgical instrument for microendoscope implantation,
 Journal of Neuroscience Methods,
