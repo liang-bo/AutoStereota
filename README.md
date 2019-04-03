@@ -36,7 +36,7 @@ https://doi.org/10.1016/j.jneumeth.2018.10.013.
 
 Also see:
 
-Giovanni Barbera, Bo Liang, Lifeng Zhang, CharlesÂ R. Gerfen, Eugenio Culurciello, Rong Chen, Yun Li, Da-Ting Lin,
+Giovanni Barbera, Bo Liang, Lifeng Zhang, Charles R. Gerfen, Eugenio Culurciello, Rong Chen, Yun Li, Da-Ting Lin,
 Spatially Compact Neural Clusters in the Dorsal Striatum Encode Locomotion Relevant Information,
 Neuron,
 Volume 92, Issue 1,
